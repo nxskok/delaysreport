@@ -11,3 +11,5 @@ Description: Monthly report on top causes of TTC
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/nxskok/delaysreport
+BugReports: https://github.com/nxskok/delaysreport/issues
