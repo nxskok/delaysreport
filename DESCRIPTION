@@ -1,0 +1,13 @@
+Package: delaysreport
+Title: TTC Delays Report
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ken",
+           family = "Butler",
+           role = c("aut", "cre"),
+           email = "butler@utsc.utoronto.ca")
+Description: Monthly report on top causes of TTC
+    delays
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
